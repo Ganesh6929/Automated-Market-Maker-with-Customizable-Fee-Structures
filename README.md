@@ -26,3 +26,4 @@ To offer a lightweight, flexible, and customizable AMM that can be integrated in
 
 ## Contract details
 0x7aF8765783e44A60E7D401Be7de42613e2bb3b14![alt text](image.png)
+created by - Rahul Kushwah 

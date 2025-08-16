@@ -2,12 +2,12 @@
 
 ## Project Description
 
-This project implements a simplified Automated Market Maker (AMM) smart contract that allows users to create liquidity pools for token pairs, add liquidity, and perform swaps. Each pool can have a customizable fee structure, enabling a flexible approach to incentivizing liquidity providers. Its are workable or most expensive. its uses all of the above..
+This project implements a simplified Automated Market Maker (AMM) smart contract that allows users to create liquidity pools for token pairs, add liquidity, and perform swaps. Each pool can have a customizable fee structure, enabling a flexible approach to incentivizing liquidity providers. Its are workable or most expensive. its uses all of the above.
 
 
 ## Project Vision
 
-To offer a lightweight, flexible, and customizable AMM that can be integrated into DEX platforms or used as a foundational layer for experimentation with different liquidity and fee models..
+To offer a lightweight, flexible, and customizable AMM that can be integrated into DEX platforms or used as a foundational layer for experimentation with different liquidity and fee models.
 
 ## Key Features
 

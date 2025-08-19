@@ -1,8 +1,8 @@
-# Automated Market Maker with Customizable Fee Structures
+un jb# Automated Market Maker with Customizable Fee Structures
 
 ## Project Description
 
-This project implements a simplified Automated Market Maker (AMM) smart contract that allows users to create liquidity pools for token pairs, add liquidity, and perform swaps. Each pool can have a customizable fee structure, enabling a flexible approach to incentivizing liquidity providers. Its are workable or most expensive , its uses all of the above.
+This project implements a simplified Automated Market Maker (AMM) smart contract that allows users to create liquidity pools for token pairs, add liquidity, and perform swaps. Each pool can have a customizable fee structure, enabling a flexible approach to incentivizing liquidity providers. Its are workable or most expensive...
 
 
 ## Project Vision
